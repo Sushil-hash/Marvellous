@@ -1,1 +1,1 @@
-This folder contains code for the first assignment which includes in total 10 files.
+This folder contains code for the assignment for python ML batch
